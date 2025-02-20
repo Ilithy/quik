@@ -38,8 +38,11 @@
     <string name="menu_add_person">Ajouter quelqu\'un</string>
     <string name="menu_call">Appeler</string>
     <string name="menu_info">Détails</string>
-    <string name="menu_save">Enregistrer dans la galerie</string>
-    <string name="menu_share">Partager</string>
+
+    <string name="menu_mms_part_save">Enregistrer dans la galerie</string>
+    <string name="menu_mms_part_share">Partager</string>
+    <string name="menu_mms_part_forward">Transférer</string>
+    <string name="menu_mms_part_open">Ouvrir en externe</string>
   
     <string name="main_drawer_open_cd">Ouvrir le tiroir de navigation</string>
     <string name="main_title_selected">%d sélectionnée</string>
